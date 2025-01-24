@@ -1,6 +1,6 @@
 # Hey, I'm Jorge. 👋
 
-Welcome to my GitHub profile! I'm a passionate full-stack engineer with over 8 years of experience in web development and infrastructure. I'm constantly exploring and adapting to new technologies and languages.
+Welcome to my GitHub profile! I'm a passionate full-stack engineer with over 10 years of experience in web development and infrastructure. I'm constantly exploring and adapting to new technologies and languages.
 
 ## Tech Stack
 
